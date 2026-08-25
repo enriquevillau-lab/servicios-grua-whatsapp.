@@ -1,0 +1,14 @@
+{
+  "name": "Servicios Grúa - WhatsApp",
+  "short_name": "Servicios Grúa",
+  "description": "Formulario de asistencia para uno o varios vehículos con envío ordenado por WhatsApp.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0f4fa8",
+  "orientation": "any",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
